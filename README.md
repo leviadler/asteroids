@@ -1,5 +1,5 @@
 ##Asteroids
-================
+====
 
 Interactive JavaScript Asteroids Game.
 
@@ -9,3 +9,6 @@ w6d3
 - Add proper images for ship and astroids and background
 - Add styling to the page
 - Decide if ship should wrap around or return to center (as of now returns to center)
+- Have astroids start from the sides
+- Create astroids as others are removed
+- Keep score
