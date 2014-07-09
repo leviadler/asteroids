@@ -1,14 +1,6 @@
-##Asteroids
+Asteroids
 ====
 
-Interactive JavaScript Asteroids Game.
+Classic Asteroids arcade game for the browser using Javascript and HTML5 canvas. Uses prototypal inheritance to DRY up code.
 
-w6d3
-
-######TODO:
-- Add proper images for ship and asteroids and background
-- Add styling to the page
-- Decide if ship should wrap around or return to center (as of now returns to center)
-- Have asteroids start from the sides
-- Create asteroids as others are removed
-- Keep score
+Play it [here](http://goo.gl/m9y77q)!
